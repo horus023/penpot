@@ -2,9 +2,9 @@
   "pluginId": "sticky-notes-plugin",
   "name": "Sticky Notes for Penpot",
   "description": "Easily add sticky notes to your penpot files",
-  "host": "https://penpot-sticky-notes-plugin.esemismobruno.com",
-  "code": "/plugin.js",
-  "icon": "/icon.png",
+  "version": 2,
+  "code": "plugin.js",
+  "icon": "icon.png",
   "permissions": [
     "content:read",
     "content:write",
